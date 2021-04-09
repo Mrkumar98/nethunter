@@ -4,17 +4,17 @@ Make sure you have approx 10GB avilable Space on your device to continue otherwi
 # Installation
 ## First thing first install git on your system by following code
 
-### apt install git
+#### apt install git
 
 ## Clone this Repository to your Terminal:
-### git clone https://www.github.com/Mrkumar98/nethunter
+#### git clone https://www.github.com/Mrkumar98/nethunter
 
 ## Give the Excutabe Permission to installer.sh by following command :
 
-### chmod +x installer.sh
+#### chmod +x installer.sh
 
 ## And Finally run the excutable file :
 
-### ./installer.sh
+#### ./installer.sh
 or 
-### bash installer.sh
+#### bash installer.sh
