@@ -7,7 +7,7 @@ Make sure you have approx 10GB avilable Space on your device to continue otherwi
 #### apt install git
 
 ## Clone this Repository to your Terminal:
-#### git clone https://www.github.com/Mrkumar98/nethunter
+#### git clone https://github.com/Mrkumar98/nethunter
 
 ## Give the Excutabe Permission to installer.sh by following command :
 
