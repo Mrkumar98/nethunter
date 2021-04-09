@@ -9,12 +9,12 @@ Make sure you have approx 10GB avilable Space on your device to continue otherwi
 ## Clone this Repository to your Terminal:
 #### git clone https://github.com/Mrkumar98/nethunter
 
-## Give the Excutabe Permission to installer.sh by following command :
+## Give the Excutabe Permission to Installer.sh by following command :
 
-#### chmod +x installer.sh
+#### chmod +x Installer.sh
 
 ## And Finally run the excutable file :
 
-#### ./installer.sh
+#### ./Installer.sh
 or 
-#### bash installer.sh
+#### bash Installer.sh
